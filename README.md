@@ -6,8 +6,12 @@
   * Use Rails/Active Record naming conventions
   * Label columns with ActiveRecord data types
     ie "name (string)"
+  * Focus on tables and their relationships, a couple pertinent attributes are plenty.
+  * Think about how it might look in rails
+
+  * Check with instructur for approval before moving to next challenge
   * You may save schemas in browser or as xml for future reference
-  * Think about how it might look in rails, or try it out in AR playground?
+
 
 ###Design a database for:
 
@@ -26,13 +30,21 @@ My blog website. It is a serious business blog, so we will have to add permissio
 
 <img src="http://www.thebluediamondgallery.com/tablet/images/blog.jpg" alt="Blog" style="width: 20%;"/>
 
+###Baseball
+I want to keep track of teams, their players and their fans. While a player can only be on on one team, fans can like multiple teams. Pick a few attributes and their data types that might be important.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/New_York_Giants_Opening_Day_line-up_at_the_Polo_Grounds_New_York._Left_to_right_Fred_Snodgrass,_Tillie_Shafer,_George_Burns,_Larry_Doyle,_Red_Murray,_Fred_Merkle,_Buck_Herzog,_Chief_Meyers_(baseball)_(LOC).jpg" alt="Blog" style="width: 20%;"/>
+
+
 ###University
-Storing information about my university. I want to be able to search for a teacher’s classes, a student’s classes with their corresponding grades, and a class’s students. I also want to record pertinent information about these people and classes such as their names and contact details.
+I want to be able to search for a teacher’s classes, a student’s classes with their corresponding grades, and a class’s students. I also want to record pertinent information about these people and classes such as their names and contact details.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Inside_a_Harvard_Business_School_classroom.jpeg" alt="Blog" style="width: 20%;"/>
 
-###Facebook
-What might their database look like?
+###Popular Websites
+What might Facebook's or Twitter's database look like? Do you have another favorite website? What might its database look like for the most vital features.
+
+
 
 
 
