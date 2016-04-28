@@ -7,6 +7,7 @@
   * Label columns with ActiveRecord data types
     ie "name (string)"
   * You may save schemas in browser or as xml for future reference
+  * Think about how it might look in rails, or try it out in AR playground?
 
 ###Design a database for:
 
